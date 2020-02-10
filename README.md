@@ -3,9 +3,9 @@
 ## Como funciona o repositório
 
 O repositório está organizado seguindo a estrutura abaixo:
-* **master:** este *branch* constará as principais informações sobre o projeto e suas organização;
-* **[recursos](https://github.com/ieeewieunb/codigodelas/tree/recursos):** consta os materiais utilizados no projeto, sendo assim, possui exercicios, indicações de vídeo aulas;
-* **O Código ...:** atividades e exercícios do semestre 2020/1
+* **[home](https://github.com/ieeewieunb/codigodelas):** possui as principais informações sobre o projeto e sua organização;
+* **[recursos](https://github.com/ieeewieunb/codigodelas/tree/master/recursos/C%2B%2B):** consta os materiais utilizados no projeto, possui exercicios, indicações de vídeo aulas;
+* **O Código ...:** atividades e exercícios do semestre 2020/1.
 
 ## Dicas como ler erros
 
