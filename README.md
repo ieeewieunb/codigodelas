@@ -22,6 +22,8 @@ O repositório está organizado seguindo a estrutura abaixo:
 
 Existem duas formas de baixar o repositório para a sua máquina. A primeira e mais simples é fazendo *download* do projeto em **.zip**, outra forma é clonar o repositório na sua máquina, ambas as formas estão descritas e detalhadas a seguir:
 
-**1. Baixar zip**
+**1. Baixar zip:** Clique no botão verde ***Clone or download*** e em seguida clique ***Download ZIP***, como mostra na imagem abaixo.
 
 ![Download .zip](https://i.ibb.co/YTrX5Cj/download-zip.png)
+
+**2. Clonando Repositório**
